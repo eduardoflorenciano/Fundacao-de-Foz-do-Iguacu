@@ -1,6 +1,6 @@
 # Fundação de Foz do Iguaçu - PR
 
-Site informativo sobre a história da fundação de Foz do Iguaçu, desenvolvido em grupo como projeto escolar. Cada integrante criou sua própria versão estilizada da página, aplicando individualmente os conceitos de HTML5 e CSS3 aprendidos em aula.
+> Site informativo sobre a história da fundação de Foz do Iguaçu, desenvolvido em grupo como projeto escolar. Cada integrante criou sua própria versão estilizada da página, aplicando individualmente os conceitos de HTML5 e CSS3 aprendidos em aula.
 
 ---
 
